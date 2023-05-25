@@ -1,4 +1,4 @@
-# pa-praktikum-iot-unmul-c6
+# pa-praktikum-iot-unmul-c3
 Nama Anggota Kelompok 3 PA IoT:
 1. Yanuar Satria Gotama 		      | 2009106013
 2. Rivan Abdillah 			          | 2009106025
