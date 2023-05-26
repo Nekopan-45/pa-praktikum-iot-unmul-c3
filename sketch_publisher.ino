@@ -123,5 +123,5 @@ void loop() {
   snprintf (msg, MSG_BUFFER_SIZE, "%s", itoa(NilaiPIR,msg,10)); // itoa (konversi integer ke string)
   Serial.print("Publish message: ");
   Serial.println(msg);
-  client.publish("iot_unmul/iot_c_6", msg); // fungsi untuk publish ke broker
+  client.publish("iot_unmul/iot_c_3", msg); // fungsi untuk publish ke broker
 }
